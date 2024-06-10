@@ -1,7 +1,7 @@
 ### Prazer! Meu nome é Jean Cabral 👋
 <br>
 -🌱 Análise e Desenvolvimento de Sistemas. <br>
--🤖 Foco em Desenvolvimento RPA/Análise de Dados. <br>
+-🤖 Analista de Dados. <br>
 -⚡ Apaixonado por TI. <br>
 
 <br>
