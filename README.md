@@ -1,21 +1,27 @@
-### Prazer! Meu nome é Jean Cabral 👋
-<br>
--🌱 Análise e Desenvolvimento de Sistemas. <br>
--🤖 Analista de Dados. <br>
--⚡ Apaixonado por TI. <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=976FEC&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Prazer+me+chamo+Jean,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+
+<div style="display: flex;">
+    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dev-oliveira&hide_progress=true&theme=aura" alt="ilustração do status do github">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheus-dev-oliveira&show_icons=true&theme=aura">
+</div>
+
+# Learning
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 <br>
+<br>
+
 
 <div align="center">
-  <a href="https://github.com/JeanAlexandreTI">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
-<br>
-    
-<div>  
-  <a href="https://www.linkedin.com/in/jean-cabral-537969294/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-cabral-537969294/">
+    <img src="https://img.shields.io/badge/-Linkedin-976FEC?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
   </a>
 </div>
+
+</div>
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=976FEC&height=120&section=footer"/>
