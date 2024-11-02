@@ -8,7 +8,7 @@
 </div>
 
 # Learning
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Ftableau-5376638&psig=AOvVaw0RThA-T37GGJee_tIOJcf7&ust=1730651445564000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCZzZaJvokDFQAAAAAdAAAAABAO" width="110" height="40"/><img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="110" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/900px-Python_logo_01.svg.png?20210503135843" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="110" height="40"/><img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="110" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/900px-Python_logo_01.svg.png?20210503135843" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 <br>
 <br>
 
