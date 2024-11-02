@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=976FEC&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Prazer+me+chamo+Jean,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
-
+<p>Atualmente, sou estagiário na área de dados, onde tenho a oportunidade de aplicar minhas habilidades analíticas e aprender sobre técnicas de processamento de dados. Estou envolvido em projetos que me permitem desenvolver soluções práticas e contribuir para a tomada de decisões baseada em dados. Estou sempre em busca de novos desafios e aprimoramento profissional.</p>
 <div style="display: flex;">
     <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&hide_progress=true&theme=aura" alt="ilustração do status do github">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=aura">
