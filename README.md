@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54473F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#697565&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Prazer+me+chamo+Jean,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 <p>Atualmente, sou estagiário na área de dados, onde aplico técnicas de análise e manipulação de dados. Este GitHub é meu espaço para compartilhar projetos relacionados a ciência de dados, machine learning entre outros.</p>
@@ -22,4 +22,4 @@
 </div>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54473F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#697565&height=120&section=footer"/>
