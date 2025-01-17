@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78C1F3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+sou+Jean,+explore+meu+trabalho+no+Github!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo!+)](https://git.io/typing-svg)
 <p>Atualmente, sou estagiário na área de dados, onde aplico técnicas de análise e manipulação de dados. Este GitHub é meu espaço para compartilhar projetos relacionados a ciência de dados, machine learning entre outros.</p>
 <div style="display: flex;">
     <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&hide_progress=true&theme=aura" alt="ilustração do status do github">
