@@ -1,4 +1,4 @@
-# 📊 Perfil de Analista de Dados
+# 📊 Analista de Dados
 
 Sou **Analista de Dados** com experiência em **Python**, **Pandas**, **SQL**, **Tableau** e **Machine Learning**. Meu objetivo é transformar dados brutos em insights valiosos para decisões de negócios.
 
