@@ -15,24 +15,24 @@ Sou **Analista de Dados** com experiência em **Python**, **Pandas**, **SQL**, *
 
 ## 💻 Linguagens Mais Usadas
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&hide=html,css,java)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&layout=compact&hide=html,css,java)
 
 ---
 
 ## 📈 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=radical)
 
 ---
 
 ## 📂 Projetos
 
-- [Análise de Dados com Python](https://github.com/seu-usuario/analise-de-dados-python)
-- [Consultas SQL para Data Analysis](https://github.com/seu-usuario/sql-queries-analysis)
-- [Dashboard de Vendas em Tableau](https://github.com/seu-usuario/dashboard-vendas-tableau)
+- [Análise de Dados com Python](https://github.com/JeanAlexandreTI/analise-de-dados-python)
+- [Consultas SQL para Data Analysis](https://github.com/JeanAlexandreTI/sql-queries-analysis)
+- [Dashboard de Vendas em Tableau](https://github.com/JeanAlexandreTI/dashboard-vendas-tableau)
 
 ---
 
 ## 🔗 Contato
 
-[LinkedIn](https://www.linkedin.com/in/seu-nome) | [Kaggle](https://www.kaggle.com/seu-usuario) | [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/jean-cabral-537969294/) | [GitHub](https://github.com/JeanAlexandreTI)
