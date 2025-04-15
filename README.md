@@ -1,45 +1,38 @@
-# 📊 Jean Cabral — Analista de Dados
+# 📊 Analista de Dados
 
-Transformo dados em decisões inteligentes com **Python**, **SQL**, **Tableau** e **Machine Learning**.
-
----
-
-## 🚀 Habilidades Técnicas
-
-- 🐍 **Python** (Pandas, NumPy, Matplotlib)
-- 🧠 **Machine Learning** (Scikit-learn)
-- 🛢️ **SQL** (MySQL, PostgreSQL)
-- 📊 **Tableau** (Dashboards interativos, KPIs)
+Sou **Analista de Dados** com experiência em **Python**, **Pandas**, **SQL**, **Tableau** e **Machine Learning**. Meu objetivo é transformar dados brutos em insights valiosos para decisões de negócios.
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Habilidades
 
-- 🔎 [Análise de Dados com Python](https://github.com/JeanAlexandreTI/analise-de-dados-python)  
-  Técnicas de limpeza, tratamento e visualização de dados com Pandas e Matplotlib.
-
-- 🧮 [Consultas SQL para Data Analysis](https://github.com/JeanAlexandreTI/sql-queries-analysis)  
-  Consultas otimizadas em bancos relacionais para insights de negócio.
-
-- 📈 [Dashboard de Vendas em Tableau](https://github.com/JeanAlexandreTI/dashboard-vendas-tableau)  
-  Painel dinâmico com métricas de vendas, filtros e visualizações customizadas.
+- **Python** (Pandas, NumPy, Matplotlib)
+- **SQL** (MySQL, PostgreSQL)
+- **Tableau** (Visualizações, Dashboards)
+- **Machine Learning** (Scikit-learn)
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Linguagens Mais Usadas
 
-<div align="center">
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&layout=compact&hide=html,css,java&theme=radical)  
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=radical)
-</div>
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&layout=compact&hide=html,css,java)
+
+---
+
+## 📈 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=radical)
+
+---
+
+## 📂 Projetos
+
+- [Análise de Dados com Python](https://github.com/JeanAlexandreTI/analise-de-dados-python)
+- [Consultas SQL para Data Analysis](https://github.com/JeanAlexandreTI/sql-queries-analysis)
+- [Dashboard de Vendas em Tableau](https://github.com/JeanAlexandreTI/dashboard-vendas-tableau)
 
 ---
 
 ## 🔗 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jean-cabral-537969294/)
-- 💻 [GitHub](https://github.com/JeanAlexandreTI)
-
----
-
-**Objetivo**: Utilizar minhas habilidades em análise de dados e machine learning para gerar insights que auxiliem na tomada de decisões estratégicas e
+[LinkedIn](https://www.linkedin.com/in/jean-cabral-537969294/) | [GitHub](https://github.com/JeanAlexandreTI)
