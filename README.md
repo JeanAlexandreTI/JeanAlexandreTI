@@ -6,7 +6,7 @@ Sou **Analista de Dados** com experiência em **Python**, **Pandas**, **SQL**, *
 
 ## 🚀 Habilidades e 💻 Linguagens Mais Usadas
 
-| **🚀 Habilidades** | **💻 Linguagens Mais Usadas** |
+| **🚀 Habilidades**  | **💻 Linguagens Mais Usadas**  |
 |:-------------------|:----------------------------|
 | - **Python** (Pandas, NumPy, Matplotlib) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&layout=compact&hide=html,css,java) |
 | - **SQL** (MySQL, PostgreSQL) | |
@@ -17,8 +17,8 @@ Sou **Analista de Dados** com experiência em **Python**, **Pandas**, **SQL**, *
 
 ## 📈 Estatísticas e 📂 Projetos
 
-| **📈 Estatísticas** | **📂 Projetos** |
-|:--------------------|:----------------|
+| **📈 Estatísticas**  | **📂 Projetos**  |
+|:---------------------|:----------------|
 | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=radical) | - [Análise de Dados com Python](https://github.com/JeanAlexandreTI/analise-de-dados-python) <br> - [Consultas SQL para Data Analysis](https://github.com/JeanAlexandreTI/sql-queries-analysis) <br> - [Dashboard de Vendas em Tableau](https://github.com/JeanAlexandreTI/dashboard-vendas-tableau) |
 
 ---
