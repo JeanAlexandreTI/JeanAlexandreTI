@@ -27,9 +27,9 @@ Sou **Analista de Dados** com experiência em **Python**, **Pandas**, **SQL**, *
 
 ## 📂 Projetos
 
-- [Análise de Dados com Python](https://github.com/JeanAlexandreTI/analise-de-dados-python)
+- [Análise de Dados com Python](https://github.com/JeanAlexandreTI/Analise-de-Dados-Publicos.git)
 - [Consultas SQL para Data Analysis](https://github.com/JeanAlexandreTI/sql-queries-analysis)
-- [Dashboard de Vendas em Tableau](https://github.com/JeanAlexandreTI/dashboard-vendas-tableau)
+- [Dashboard de Vendas em Tableau](https://public.tableau.com/app/profile/jean.alexandre.cabral.de.oliveira/viz/ArquiteturadeDadosRelacionaisI_FtoT2/Frame1?publish=yes)
 
 ---
 
