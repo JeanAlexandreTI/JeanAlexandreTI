@@ -7,7 +7,7 @@ Sou **Analista de Dados** com experiência em **Python**, **Pandas**, **SQL**, *
 ## 🚀 Habilidades
 
 - **Python** (Pandas, NumPy, Matplotlib)
-- **SQL** (MySQL, PostgreSQL)
+- **SQL** (MySQL, SnowFlake)
 - **Tableau** (Visualizações, Dashboards)
 - **Machine Learning** (Scikit-learn)
 
@@ -16,12 +16,6 @@ Sou **Analista de Dados** com experiência em **Python**, **Pandas**, **SQL**, *
 ## 💻 Linguagens Mais Usadas
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&layout=compact&hide=html,css,java)
-
----
-
-## 📈 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=radical)
 
 ---
 
