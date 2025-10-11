@@ -27,12 +27,6 @@ Também utilizo **Tableau** para visualizar o impacto das automações e gerar i
 
 ---
 
-## 💻 Linguagens Mais Usadas
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&layout=compact&hide=html,css,java)
-
----
-
 ## 📂 Projetos
 
 - [Automação de Relatórios em Python (RPA)](https://github.com/JeanAlexandreTI)  
