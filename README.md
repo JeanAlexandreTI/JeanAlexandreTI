@@ -31,7 +31,7 @@ Também utilizo **Tableau** para visualizar o impacto das automações e gerar i
 
 - [Automação de Relatórios em Python (RPA)](https://github.com/JeanAlexandreTI)  
 - [Extração e Análise de Dados (SQL + Python)](https://github.com/JeanAlexandreTI/sql-queries-analysis)  
-- [Dashboard de Eficiência Operacional - Tableau](https://public.tableau.com/app/profile/jean.alexandre.cabral.de.oliveira/viz/ArquiteturadeDadosRelacionaisI_FtoT2/Frame1?publish=yes)  
+- [Dashboard de Eficiência Operacional - Tableau](https://public.tableau.com/app/profile/jean.alexandre.cabral.de.oliveira/viz/ArquiteturadeDadosRelacionaisI_FtoT/ConsultaCombustivel)  
 
 ---
 
