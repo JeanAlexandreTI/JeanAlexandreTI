@@ -9,21 +9,10 @@ Também utilizo **Tableau** para visualizar o impacto das automações e gerar i
 
 ## ⚙️ Habilidades Técnicas
 
-- **Python** (Selenium, PyAutoGUI, Pandas, win32com)  
+- **Python** (Selenium, PyAutoGUI, Polars, win32com)  
 - **SQL** (Snowflake, MySQL)  
 - **RPA** (Automação Web e Desktop End-to-End)  
 - **Tableau** (Dashboards de performance e eficiência)  
-- **Governança e Tratamento de Dados**  
-- **Metodologias Ágeis** (Kanban)  
-
----
-
-## 📊 Principais Competências
-
-- Criação de **bots robustos** para automação de fluxos corporativos.  
-- Extração, tratamento e integração de dados para alimentar automações.  
-- **Automação de e-mails, relatórios e processos administrativos** com Python e Office (win32com).  
-- Desenvolvimento de **dashboards interativos** no Tableau para mensurar resultados.  
 
 ---
 
