@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Jean Cabral
+# Prazer, eu sou o Jean
 
 ### Automação & RPA | Backend Python | Dados
 
