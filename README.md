@@ -12,7 +12,7 @@ Atualmente sou formado em **Análise e Desenvolvimento de Sistemas** e curso pó
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -33,7 +33,7 @@ Atualmente sou formado em **Análise e Desenvolvimento de Sistemas** e curso pó
 
 ---
 
-## 💻 Áreas de atuação
+##  Áreas de atuação
 
 **Automação & RPA** · Python · Selenium · PyAutoGUI · Power Automate · Power Apps
 
@@ -45,7 +45,7 @@ Atualmente sou formado em **Análise e Desenvolvimento de Sistemas** e curso pó
 
 ---
 
-## 🎯 Desenvolvimento profissional
+##  Desenvolvimento profissional
 
 Atualmente direciono meus estudos e projetos para **Engenharia de Software e Desenvolvimento Backend**, com foco em:
 
@@ -53,7 +53,7 @@ Atualmente direciono meus estudos e projetos para **Engenharia de Software e Des
 
 ---
 
-## 🎓 Formação
+##  Formação
 
 **Pós-graduação em Engenharia de Software, DevOps e Transformação Digital**  
 Pontifícia Universidade Católica do Paraná | PUCPR  
@@ -65,7 +65,7 @@ Concluído em 2026
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <a href="mailto:jeanalexandre810@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
