@@ -56,8 +56,8 @@ Atualmente direciono meus estudos e projetos para **Engenharia de Software e Des
 ## 🎓 Formação
 
 **Pós-graduação em Engenharia de Software, DevOps e Transformação Digital**  
-Pontifícia Universidade Católica do Paraná — PUCPR  
-2026 - 2027
+Pontifícia Universidade Católica do Paraná | PUCPR  
+2026 - 2028
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 Universidade Vila Velha — UVV  
